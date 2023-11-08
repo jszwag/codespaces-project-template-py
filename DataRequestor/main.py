@@ -7,7 +7,7 @@ res = requests.get("https://api.openaq.org/v2/locations/2178")
 #https://docs.openaq.org/docs/getting-started
 
 while (True):
-    print('Test')
+    print('True')
     sleep(2)
 
 
